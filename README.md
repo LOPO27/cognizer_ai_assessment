@@ -1,5 +1,3 @@
-# cognizer_ai_assessment
-
 # Audit & Inspection Rights Clause Extractor
 
 This project extracts all occurrences of the "Audit & Inspection Rights" clause from a given contract document (`.docx`) using the **Groq LPU engine** and **LangChain**. The extracted clauses are saved in an Excel file for further analysis.
