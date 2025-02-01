@@ -24,13 +24,13 @@ This project extracts all occurrences of the "Audit & Inspection Rights" clause 
    cd audit-inspection-clause-extractor
 
 2. Export your api key
-```bash
+   ```bash
    export GROQ_API_KEY="your_groq_api_key"
 
 3. Setup enviroment from environment.yaml file
-```bash
+   ```bash
    conda env create -f environment.yaml
 
 4. Activate your environment
-```bash
+   ```bash
    conda activate audit-inspection-clause-extractor
