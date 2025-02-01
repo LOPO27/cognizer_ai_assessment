@@ -23,4 +23,4 @@ This project extracts all occurrences of the "Audit & Inspection Rights" clause 
    git clone https://github.com/your-username/audit-inspection-clause-extractor.git
    cd audit-inspection-clause-extractor
 
-**export GROQ_API_KEY="your_groq_api_key"**
+```export GROQ_API_KEY="your_groq_api_key"
