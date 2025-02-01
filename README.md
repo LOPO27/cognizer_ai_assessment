@@ -20,7 +20,7 @@ This project extracts all occurrences of the "Audit & Inspection Rights" clause 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/LOPO27/cognizer_ai_assessment.git
+   git clone https://github.com/Tushar01-repo/cognizer_ai_assessment.git
    cd cognizer_ai_assessment
 
 2. Export your api key
