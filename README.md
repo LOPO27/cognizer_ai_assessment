@@ -34,3 +34,14 @@ This project extracts all occurrences of the "Audit & Inspection Rights" clause 
 4. Activate your environment
    ```bash
    conda activate audit-inspection-clause-extractor
+
+## files
+
+Tushar_Pal_Assessment/
+├── extraction.ipynb               # Main .ipynb script for audit & clause extraction
+├── contract_interview.docx        # dataset for extraction
+├── environment.yml                # Conda environment configuration
+├── README.md                      # This file
+└── extracted_content.xlsx         # Output Excel file (generated after running the script)
+
+
